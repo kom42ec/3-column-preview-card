@@ -12,7 +12,7 @@ Users should be able to:
 ## Links
 
 - Solution URL: [3-column preview card component solution]
-- Live site URL: [3-column preview card component live site]
+- Live site URL: [3-column preview card component live site](https://kom42ec.github.io/3-column-preview-card/)
 
 ## Screenshots
 
